@@ -8,4 +8,4 @@ Vesting will begin in the 3 different categories. Combining development and team
 
 All tokens are vested over 2 years.
 
-* Milestones 2 and 3 will require changes to the scripts as dates are not defined at the moment.
+Milestones 2 and 3 will require changes to the scripts as dates are not defined at the moment.
